@@ -405,6 +405,8 @@ img {
 
 .swiper-container-horizontal > .swiper-pagination-bullets {
   bottom: -2.5rem;
+  position: relative;
+  top: 2.5 em;
 }
 
 .swiper-pagination-bullet-active {
